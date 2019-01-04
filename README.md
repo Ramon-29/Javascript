@@ -1,5 +1,5 @@
 # Javascript
-Proyectos JavaScript
+Proyectos JavaScript seguidos del curso de Udemy.
 
 ## Quiz JS
 
